@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Konstantino's Page
 
 You can use the [editor on GitHub](https://github.com/c15pati/c15pati.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
